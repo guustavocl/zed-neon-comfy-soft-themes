@@ -1,0 +1,7 @@
+id = "zed-neon-comfy-soft-themes"
+name = "Neon Comfy & Soft Themes (opaque/blured/transparent)"
+version = "0.1.0"
+schema_version = 1
+authors = ["Gustavo <gus@gus.sh>"]
+description = "A Comfy & Soft Dark theme with neon Violet, Pink and Vaporwave syntax colors."
+repository = "https://github.com/guustavocl/zed-neon-comfy-soft-themes"
