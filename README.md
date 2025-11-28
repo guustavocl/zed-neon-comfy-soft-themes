@@ -1,6 +1,6 @@
 # zed-neon-comfy-soft-themes
 
-[![Zed extension](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TheAhumMaitra/Your-Name-Zed-theme/main/assests/badges/zed_extension_badge.json)](https://zed.dev/extensions/your-name-theme)
+[![Zed extension](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TheAhumMaitra/Your-Name-Zed-theme/main/assests/badges/zed_extension_badge.json)](https://zed.dev/extensions/neon-comfy-soft-themes)
 
 Just some themes with Neon vibe and few color pallete, designed to keep your workspace minimal, comfy & soft :)
 Hope you guys enjoy it.
