@@ -2,7 +2,7 @@
 
 [![Zed extension](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TheAhumMaitra/Your-Name-Zed-theme/main/assests/badges/zed_extension_badge.json)](https://zed.dev/extensions/neon-comfy-soft-themes)
 
-Just some themes with Neon vibe and few color pallete, designed to keep your workspace minimal, comfy & soft :)
+Just some themes with Neon vibes and few color palette, designed to keep your workspace minimal, comfy & soft :)
 Hope you guys enjoy it.
 
 Theres 3 dark themes: Violet, Plum Blossom and Vaporwave, all of them have 3 variants: Blurred, Opaque and Transparent.
