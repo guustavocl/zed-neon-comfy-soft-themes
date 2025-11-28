@@ -13,6 +13,8 @@ Theres 3 dark themes: Violet, Plum Blossom and Vaporwave, all of them have 3 var
 ![Plum Blossom - Blurred](https://github.com/guustavocl/zed-neon-comfy-soft-themes/blob/main/assets/Neon_Dark_Plum_Blossom_demo.png?raw=true)
 ![Vaporwave - Blurred](https://github.com/guustavocl/zed-neon-comfy-soft-themes/blob/main/assets/Neon_Dark_Vaporwave_demo.png?raw=true)
 
+Oh that's a Jinx bg from my desktop, it's blurred but the opaque version is just the theme bg color: #13101A
+
 # 📄 License
 
 [`GNU GENERAL PUBLIC LICENSE - VERSION 3`](LICENSE)
